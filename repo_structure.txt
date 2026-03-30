@@ -1,0 +1,9 @@
+/root
+├── project.tar.gz
+├── setup-openclaw.py
+└── ttskill
+    ├── repo_structure.txt
+    ├── run.sh
+    └── SKILL.md
+
+2 directories, 5 files
